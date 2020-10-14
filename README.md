@@ -3,14 +3,14 @@
 
 ### Get to know me:
 
-- 🔭 I’m currently working on my **Portafolio**
+- 🔭 I’m currently currently pursuing a degree in  **IT**
 - 🌱 I’m currently learning **React and GraphQL**
 - 📫 How to reach me **thedaniel115@gmail.com**
 - ⚡ Fun fact: **I love playing guitar / drums / piano**
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-github-12bb5g78n.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1297668914)
+[<img src="https://spotify-github-12bb5g78n.vercel.app/api/spotify" alt="MrDanielG Spotify Playing" width="350" />](https://open.spotify.com/user/1297668914)
 
 ### Languages and Tools:
 
