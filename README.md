@@ -41,10 +41,10 @@
 
 ### Connect with me:
 
-<a href="https://discord.gg/tGbhbajC" target="blank">
+<a href="https://discord.gg/tGbhbajC" target="_blank">
   <img align="left" alt="Daniel's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<a href="https://twitter.com/daniel11700" target="blank">
+<a href="https://twitter.com/daniel11700" target="_blank">
   <img align="left" alt="Daniel's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <!--
@@ -52,16 +52,16 @@
   <img align="left" alt="Daniel's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 -->
-<a href="https://t.me/danielgarnica" target="blank">
+<a href="https://t.me/danielgarnica" target="_blank">
   <img align="left" alt="Daniel's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/daniel_garnica/" target="blank">
+<a href="https://www.instagram.com/daniel_garnica/" target="_blank">
   <img align="left" alt="Daniel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/mrfuntwo" target="blank">
+<a href="https://www.reddit.com/user/mrfuntwo" target="_blank">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://fb.com/danielgs11" target="blank">
+<a href="https://fb.com/danielgs11" target="_blank">
   <img align="left" alt="Daniel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"  />
 </a>
 
