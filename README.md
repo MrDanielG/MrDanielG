@@ -3,7 +3,7 @@
 
 ### Get to know me:
 
-- 🔭 I’m currently currently pursuing a degree in  **IT**
+- 🔭 I’m pursuing a degree in  **IT**
 - 🌱 I’m currently learning **React and GraphQL**
 - 📫 How to reach me **thedaniel115@gmail.com**
 - 🎸 Fun fact: **I love playing guitar / drums / piano**
@@ -22,7 +22,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="30" height="30"/>
@@ -30,6 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
