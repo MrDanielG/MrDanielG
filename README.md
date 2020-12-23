@@ -5,7 +5,7 @@
 
 - 🔭 I’m pursuing a degree in  **IT**
 - 🌱 I’m currently learning **React and GraphQL**
-- 📫 How to reach me **thedaniel115@gmail.com**
+- 📫 How to reach me: <a href="https://danielgarnica.com" target="_blank">**danielgarnica.com**</a>
 - 🎸 Fun fact: **I love playing guitar / drums / piano**
 
 ### Spotify Playing 🎧
