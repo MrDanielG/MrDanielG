@@ -43,9 +43,12 @@
 <a href="https://discord.gg/tGbhbajC" target="_blank">
   <img align="left" alt="Daniel's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="40" height="40"/>
 </a>
+
+<!--
 <a href="https://twitter.com/daniel11700" target="_blank">
   <img align="left" alt="Daniel's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40" />
 </a>
+-->
 <!--
 <a href="https://www.linkedin.com/in/username/">
   <img align="left" alt="Daniel's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
