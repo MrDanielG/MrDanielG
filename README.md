@@ -44,21 +44,20 @@
   <img align="left" alt="Daniel's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="40" height="40"/>
 </a>
 
+<a href="https://t.me/danielgarnica" target="_blank">
+  <img align="left" alt="Daniel's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="40" height="40" />
+</a>
+
+<a href="https://www.instagram.com/daniel_garnica/" target="_blank">
+  <img align="left" alt="Daniel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>
+</a>
+
 <!--
 <a href="https://twitter.com/daniel11700" target="_blank">
   <img align="left" alt="Daniel's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40" />
 </a>
--->
-<!--
 <a href="https://www.linkedin.com/in/username/">
   <img align="left" alt="Daniel's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
--->
-<a href="https://t.me/danielgarnica" target="_blank">
-  <img align="left" alt="Daniel's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="40" height="40" />
-</a>
-<a href="https://www.instagram.com/daniel_garnica/" target="_blank">
-  <img align="left" alt="Daniel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>
 </a>
 <a href="https://www.reddit.com/user/mrfuntwo" target="_blank">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" width="40" height="40"/>
@@ -66,5 +65,6 @@
 <a href="https://fb.com/danielgs11" target="_blank">
   <img align="left" alt="Daniel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="40" height="40" />
 </a>
+-->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrdanielg&show_icons=true" alt="mrdanielg" /></p> -->
