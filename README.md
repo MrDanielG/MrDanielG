@@ -41,19 +41,19 @@
 ### Connect with me:
 
 <a href="https://discord.gg/tGbhbajC" target="_blank">
-  <img align="left" alt="Daniel's Discord" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="30" height="30"/>
+  <img align="left" alt="Daniel's Discord" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="25" height="25"/>
 </a>
 
 <a href="https://t.me/danielgarnica" target="_blank">
-  <img align="left" alt="Daniel's Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="30" height="30" />
+  <img align="left" alt="Daniel's Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="25" height="25" />
 </a>
 
 <a href="https://www.instagram.com/daniel_garnica/" target="_blank">
-  <img align="left" alt="Daniel's Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30" height="30"/>
+  <img align="left" alt="Daniel's Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25" height="25"/>
 </a>
 
 <a href="https://www.linkedin.com/in/daniel-garnica/" target="_blank">
-  <img align="left" alt="Daniel's LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30"/>
+  <img align="left" alt="Daniel's LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25" height="25"/>
 </a>
 
 <!--
