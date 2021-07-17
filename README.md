@@ -1,12 +1,12 @@
 <h2 align="center">Hi 👋, I'm Daniel</h2>
-<h3 align="center">I'm a Student from México!</h3>
+<h3 align="center">I'm a Web Developer from México!</h3>
 
 ### Get to know me:
 
 - 🔭 I’m pursuing a degree in  **IT**
 - 🌱 I’m currently learning **NextJS and GraphQL**
 - 📫 How to reach me: <a href="https://danielgarnica.com" target="_blank">**danielgarnica.com**</a>
-- 🎸 Fun fact: **I love playing guitar / drums / piano**
+- 🎸 About me: **I love playing guitar / drums / piano**
 
 ### Spotify Playing 🎧
 
@@ -41,26 +41,27 @@
 ### Connect with me:
 
 <a href="https://discord.gg/tGbhbajC" target="_blank">
-  <img align="left" alt="Daniel's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="40" height="40"/>
+  <img align="left" alt="Daniel's Discord" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="40" height="40"/>
 </a>
 
 <a href="https://t.me/danielgarnica" target="_blank">
-  <img align="left" alt="Daniel's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="40" height="40" />
+  <img align="left" alt="Daniel's Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="40" height="40" />
 </a>
 
 <a href="https://www.instagram.com/daniel_garnica/" target="_blank">
-  <img align="left" alt="Daniel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>
+  <img align="left" alt="Daniel's Instagram"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/daniel-garnica/" target="_blank">
+  <img align="left" alt="Daniel's LinkedIn"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" height="40"/>
 </a>
 
 <!--
 <a href="https://twitter.com/daniel11700" target="_blank">
-  <img align="left" alt="Daniel's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40" />
-</a>
-<a href="https://www.linkedin.com/in/username/">
-  <img align="left" alt="Daniel's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Daniel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="40" height="40" />
 </a>
 <a href="https://www.reddit.com/user/mrfuntwo" target="_blank">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" width="40" height="40"/>
+  <img align="left" alt="Daniel's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" width="40" height="40"/>
 </a>
 <a href="https://fb.com/danielgs11" target="_blank">
   <img align="left" alt="Daniel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="40" height="40" />
