@@ -4,7 +4,7 @@
 ### Get to know me:
 
 - 🔭 I’m working on my bachelor's **thesis**
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Qwik**
 - 📫 How to reach me: <a href="https://danielgarnica.com" target="_blank">**danielgarnica.com**</a>
 - 🎸 About me: **I love playing guitar / drums / piano**
 
